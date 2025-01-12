@@ -1,0 +1,3 @@
+[submodule "external/Simple-Object-Viewer"]
+	path = external/Simple-Object-Viewer
+	url = https://github.com/ShineiArakawa/Simple-Object-Viewer.git
